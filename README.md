@@ -76,6 +76,8 @@ This will start the app at **http://localhost:5173/** (Vite default port).
 ---
 
 ## ✅ Deployment
+The app is deployed on **Vercel**: [EmployWise](https://employe-wise.vercel.app/)
+
 To build for production:
 ```sh
 npm run build
